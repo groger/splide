@@ -1,5 +1,5 @@
 {
-  "name": "@gwroger/@splidejs-splide",
+  "name": "@gwroger/@splidejs",
   "version": "0.0.1",
   "description": "Based on Splidejs. We had an horizontal scroll option. Splide is a lightweight, flexible and accessible slider/carousel. No dependencies, no Lighthouse errors.",
   "license": "MIT",
