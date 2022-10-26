@@ -1,7 +1,7 @@
 {
   "name": "@gwroger/splidejs",
-  "version": "0.0.1",
-  "description": "Based on Splidejs. We had an horizontal scroll option. Splide is a lightweight, flexible and accessible slider/carousel. No dependencies, no Lighthouse errors.",
+  "version": "0.0.2",
+  "description": "Based on Splidejs. I added an horizontal scroll option. Splide is a lightweight, flexible and accessible slider/carousel. No dependencies, no Lighthouse errors.",
   "license": "MIT",
   "main": "dist/js/splide.cjs.js",
   "module": "dist/js/splide.esm.js",
@@ -19,13 +19,9 @@
     "responsive",
     "typescript"
   ],
-  "homepage": "https://splidejs.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Splidejs/splide.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Splidejs/splide/issues"
+    "url": "git+https://github.com/groger/splide.git"
   },
   "devDependencies": {
     "@babel/core": "^7.18.13",
